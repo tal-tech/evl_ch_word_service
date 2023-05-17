@@ -5,6 +5,9 @@
 
 ## Install
 ```
+cd ./src/
+```
+```
 cmake CMakeLists.txt
 ```
 Then<br/>
